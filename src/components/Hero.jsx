@@ -39,7 +39,7 @@ const Hero = () => {
           <div className="flex flex-col gap-10 mt-10">
             <div data-aos="fade-down" data-aos-delay="0" className="flex items-center w-80 gap-5">
               <h3>3+</h3>
-              <p>Years of Experience in Web development</p>
+              <p>Years of Experience in Human Resource (HR)</p>
             </div>
             <div data-aos="fade-down" data-aos-delay="300" className="flex items-center w-80 gap-5 flex-row-reverse text-right">
               <h3></h3>
