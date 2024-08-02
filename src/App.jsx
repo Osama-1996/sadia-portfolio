@@ -9,14 +9,14 @@ import Contact from "./components/Contact";
 
 const App = () => {
   return (
-    <div className="">
+    <div className="overflow-hidden">
       <Hero />
       <Skills />
       <Service />
-      <Projects />
+      {/* <Projects /> */}
       <Testimonials />
       <Hireme />
-      <Contact />
+      <Contact id="contact-us"/>
     </div>
   );
 };
